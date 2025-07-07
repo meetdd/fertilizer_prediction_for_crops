@@ -10,4 +10,5 @@ This project provides a machine learning-based approach to recommend the most ap
 - Data preprocessing and EDA included
 
 ## 📁 Project Structure
-
+simply open on colab google 
+free to use and modify it 
